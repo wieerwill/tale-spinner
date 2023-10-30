@@ -1,10 +1,27 @@
-# tale-spinner
-we want to build a game.  In turn, each player becomes the Narrator. the narrator pushes the "start" button and like a one-armed-bandit a symbol is randomly selected and showed. the player has to tell a story by using this symbol. the random select and storytelling goes on for X iterations. then the next players turn begins. at the start of the game the players set the amount of players, the amount of iterations and amount of turns. later we want to add different modi operandi. 
-on the startpage we want to introduce the players to the game, describe it and provide an playing instruction. then we got the game page to start a game. we want to enable either local play or online play. at local play all players are at one computer and play with a single webpage. at online play, the users are joining together by using a code and all players screens are synced up but only the player in turn can press any buttons. 
-we will use nuxtjs as framework. where do we start and how do we structure the project?
-## Build Setup
+# Tale-Spinner
+
+Tale-Spinner is an interactive storytelling game built with Nuxt.js, where players take turns to craft a narrative based on a randomly selected symbol. The game supports both local and online play, allowing friends to come together and weave imaginative tales.
+
+## Features
+
+- **Player Setup**: At the start of the game, players can set the number of participants, turns, and iterations.
+- **Symbol Selection**: In each turn, a player triggers a random symbol selection, which is then used as a prompt to continue the story.
+- **Story Building**: Players build upon the story iteratively, adding new elements with each symbol.
+- **Category Filtering**: Players have the option to filter the symbols based on categories, customizing their gameplay experience.
+- **Local Play**: Enjoy the game locally on a single device
+
+Future Improvements:
+- **Online Play**: play online with friends
+- **Playful and Colorful UI**: Engaging user interface with colorful and playful elements to enhance the gaming experience.
+
+## Getting Started
+
+Clone the repository and install the dependencies:
 
 ```bash
+git clone https://github.com/your-username/tale-spinner.git
+cd tale-spinner
+
 # install dependencies
 $ yarn install
 
@@ -19,52 +36,10 @@ $ yarn start
 $ yarn generate
 ```
 
-For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
+## Contributing
 
-## Special Directories
+Feel free to fork the project, open a PR, or submit issues for any suggestions, bugs, or feature requests.
 
-You can create the following extra directories, some of which have special behaviors. Only `pages` is required; you can delete them if you don't want to use their functionality.
+For detailed explanation on how things work, check out the NuxtJS [documentation](https://nuxtjs.org).
 
-### `assets`
-
-The assets directory contains your uncompiled assets such as Stylus or Sass files, images, or fonts.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/assets).
-
-### `components`
-
-The components directory contains your Vue.js components. Components make up the different parts of your page and can be reused and imported into your pages, layouts and even other components.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/components).
-
-### `layouts`
-
-Layouts are a great help when you want to change the look and feel of your Nuxt app, whether you want to include a sidebar or have distinct layouts for mobile and desktop.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/layouts).
-
-### `pages`
-
-This directory contains your application views and routes. Nuxt will read all the `*.vue` files inside this directory and setup Vue Router automatically.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/get-started/routing).
-
-### `plugins`
-
-The plugins directory contains JavaScript plugins that you want to run before instantiating the root Vue.js Application. This is the place to add Vue plugins and to inject functions or constants. Every time you need to use `Vue.use()`, you should create a file in `plugins/` and add its path to plugins in `nuxt.config.js`.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/plugins).
-
-### `static`
-
-This directory contains your static files. Each file inside this directory is mapped to `/`.
-
-Example: `/static/robots.txt` is mapped as `/robots.txt`.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/static).
-
-### `store`
-
-This directory contains your Vuex store files. Creating a file in this directory automatically activates Vuex.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
+Enjoy spinning tales!
