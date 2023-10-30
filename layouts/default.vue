@@ -7,6 +7,8 @@
         a.about-link(href="/about") About
     main
         nuxt
+    footer 
+        a.about-link(href="/about") About
 </template>
 <style scoped>
 .layout {
@@ -47,5 +49,31 @@ header {
 main {
     flex-grow: 1;
     padding: 1rem;
+}
+
+header .about-link {
+    display: block;
+}
+
+footer {
+    display: none;
+}
+
+@media (max-width: 599px) {
+    header .about-link {
+        display: none;
+    }
+
+    footer {
+        display: block;
+        width: 80%;
+        align-items: center;
+        text-align: center;
+        margin: 5rem 1rem 1rem 1rem;
+        padding: 2rem;
+        background-color: #3498db8e;
+        color: #fff;
+        border-radius: 1rem;
+    }
 }
 </style>

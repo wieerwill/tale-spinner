@@ -6,6 +6,10 @@
         a(href="mailto:jeutter@wieerwill.de") jeutter[at]wieerwill.de 
     p You can find more projects and infos about me at 
         a(href="https://wieerwill.de") wieerwill.de
+    hr 
+    p All Icons on the page and some of the symbols are from 
+        a(href="https://fontawesome.com/") FontAwesome
+    p All other symbols for the game were generated with StableDiffusion
 </template>
 <style scoped>
 .aboutpage {

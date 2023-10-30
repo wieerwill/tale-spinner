@@ -1,7 +1,7 @@
 <template lang="pug">
 .game-setup
     h1 Setup Your Game
-    form(@submit.prevent="startGame")
+    div
         .input-group
             label(for="playerCount") Players
             .counter
@@ -23,28 +23,50 @@
                 input(type="number" id="iterationCount" v-model.number="iterationCount" min="1" readonly)
                 button.plus(@click="iterationCount++") +
             small Number of iterations in a single turn for each player.
-        button.submit(type="submit") Start Game
+        .input-group
+            label Categories
+            br
+            small Choose which categories you want to use in your game.
+            div.category(v-for="(category, index) in availableCategories" :key="index")
+                input(type="checkbox" :value="category" v-model="selectedCategories" :id="category")
+                label(:for="category") {{ category }}
+        button.submit(type="submit" @click="startGame") Start Game
 </template>
 <script>
+import symbols from '~/assets/symbols.json';
 export default {
-  data() {
-    return {
-      playerCount: 2,
-      turnCount: 2,
-      iterationCount: 3
-    }
-  },
-  methods: {
-    startGame() {
-      const gameSettings = {
-        playerCount: this.playerCount,
-        turnCount: this.turnCount,
-        iterationCount: this.iterationCount,
-      };
-      this.$store.dispatch('initializeGame', gameSettings);
-      this.$router.push('/gameplay');  // Assuming the gameplay page is at this route
-    }
-  }
+    data() {
+        const availableCategories = Array.from(new Set(symbols.map(symbol => {
+            if (symbol.category) {
+                return symbol.category
+            } else {
+                return "Standard"
+            }
+        })));
+        return {
+            playerCount: 2,
+            turnCount: 2,
+            iterationCount: 3,
+            availableCategories,
+            selectedCategories: [],
+        }
+    },
+    watch: {
+        selectedCategories(newVal) {
+            this.$store.commit('setSelectedCategories', newVal);
+        },
+    },
+    methods: {
+        startGame() {
+            const gameSettings = {
+                playerCount: this.playerCount,
+                turnCount: this.turnCount,
+                iterationCount: this.iterationCount,
+            };
+            this.$store.dispatch('initializeGame', gameSettings);
+            this.$router.push('/gameplay');  // Assuming the gameplay page is at this route
+        }
+    },
 }
 </script>
 <style scoped>
@@ -76,6 +98,17 @@ label {
     margin-bottom: 0.5rem;
     font-size: 2rem;
     color: #3498db;
+}
+
+.category {
+    margin-bottom: 3rem;
+}
+
+.category label {
+    font-size: 1rem;
+    margin: initial;
+    font-weight: normal;
+    color: black;
 }
 
 .counter {

@@ -1,0 +1,4237 @@
+[
+    {
+        "name": "0",
+        "path": "/symbols/0.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "1",
+        "path": "/symbols/1.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "2",
+        "path": "/symbols/2.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "3",
+        "path": "/symbols/3.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "4",
+        "path": "/symbols/4.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "5",
+        "path": "/symbols/5.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "6",
+        "path": "/symbols/6.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "7",
+        "path": "/symbols/7.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "8",
+        "path": "/symbols/8.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "9",
+        "path": "/symbols/9.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "a",
+        "path": "/symbols/a.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "address-book",
+        "path": "/symbols/address-book.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "address-card",
+        "path": "/symbols/address-card.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "align-center",
+        "path": "/symbols/align-center.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "anchor",
+        "path": "/symbols/anchor.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "angle-down",
+        "path": "/symbols/angle-down.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "angle-left",
+        "path": "/symbols/angle-left.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "angle-right",
+        "path": "/symbols/angle-right.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "angle-up",
+        "path": "/symbols/angle-up.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "angles-down",
+        "path": "/symbols/angles-down.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "angles-left",
+        "path": "/symbols/angles-left.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "angles-right",
+        "path": "/symbols/angles-right.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "angles-up",
+        "path": "/symbols/angles-up.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "ankh",
+        "path": "/symbols/ankh.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "apple-whole",
+        "path": "/symbols/apple-whole.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "archway",
+        "path": "/symbols/archway.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "arrow-down",
+        "path": "/symbols/arrow-down.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "arrow-left",
+        "path": "/symbols/arrow-left.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "arrow-right-arrow-left",
+        "path": "/symbols/arrow-right-arrow-left.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "arrow-right-from-bracket",
+        "path": "/symbols/arrow-right-from-bracket.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "arrow-right-to-bracket",
+        "path": "/symbols/arrow-right-to-bracket.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "arrow-right-to-city",
+        "path": "/symbols/arrow-right-to-city.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "arrow-right",
+        "path": "/symbols/arrow-right.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "arrow-rotate-left",
+        "path": "/symbols/arrow-rotate-left.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "arrow-rotate-right",
+        "path": "/symbols/arrow-rotate-right.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "arrow-trend-down",
+        "path": "/symbols/arrow-trend-down.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "arrow-trend-up",
+        "path": "/symbols/arrow-trend-up.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "arrow-turn-down",
+        "path": "/symbols/arrow-turn-down.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "arrow-turn-up",
+        "path": "/symbols/arrow-turn-up.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "arrow-up-from-bracket",
+        "path": "/symbols/arrow-up-from-bracket.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "arrow-up-from-ground-water",
+        "path": "/symbols/arrow-up-from-ground-water.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "arrow-up-from-water-pump",
+        "path": "/symbols/arrow-up-from-water-pump.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "arrow-up-long",
+        "path": "/symbols/arrow-up-long.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "arrow-up",
+        "path": "/symbols/arrow-up.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "arrows-down-to-line",
+        "path": "/symbols/arrows-down-to-line.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "arrows-down-to-people",
+        "path": "/symbols/arrows-down-to-people.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "arrows-left-right-to-line",
+        "path": "/symbols/arrows-left-right-to-line.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "arrows-left-right",
+        "path": "/symbols/arrows-left-right.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "arrows-rotate",
+        "path": "/symbols/arrows-rotate.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "arrows-spin",
+        "path": "/symbols/arrows-spin.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "arrows-split-up-and-left",
+        "path": "/symbols/arrows-split-up-and-left.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "arrows-to-circle",
+        "path": "/symbols/arrows-to-circle.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "arrows-to-dot",
+        "path": "/symbols/arrows-to-dot.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "arrows-to-eye",
+        "path": "/symbols/arrows-to-eye.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "arrows-turn-right",
+        "path": "/symbols/arrows-turn-right.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "arrows-turn-to-dots",
+        "path": "/symbols/arrows-turn-to-dots.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "arrows-up-down-left-right",
+        "path": "/symbols/arrows-up-down-left-right.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "arrows-up-down",
+        "path": "/symbols/arrows-up-down.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "arrows-up-to-line",
+        "path": "/symbols/arrows-up-to-line.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "asterisk",
+        "path": "/symbols/asterisk.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "atom",
+        "path": "/symbols/atom.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "award",
+        "path": "/symbols/award.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "baby-carriage",
+        "path": "/symbols/baby-carriage.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "baby",
+        "path": "/symbols/baby.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "backward-fast",
+        "path": "/symbols/backward-fast.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "backward-step",
+        "path": "/symbols/backward-step.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "backward",
+        "path": "/symbols/backward.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "bacon",
+        "path": "/symbols/bacon.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "bacteria",
+        "path": "/symbols/bacteria.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "bacterium",
+        "path": "/symbols/bacterium.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "bag-shopping",
+        "path": "/symbols/bag-shopping.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "ban-smoking",
+        "path": "/symbols/ban-smoking.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "ban",
+        "path": "/symbols/ban.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "bandage",
+        "path": "/symbols/bandage.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "barcode",
+        "path": "/symbols/barcode.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "baseball-bat-ball",
+        "path": "/symbols/baseball-bat-ball.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "baseball",
+        "path": "/symbols/baseball.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "basket-shopping",
+        "path": "/symbols/basket-shopping.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "basketball",
+        "path": "/symbols/basketball.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "bath",
+        "path": "/symbols/bath.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "battery-empty",
+        "path": "/symbols/battery-empty.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "battery-full",
+        "path": "/symbols/battery-full.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "battery-half",
+        "path": "/symbols/battery-half.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "battery-quarter",
+        "path": "/symbols/battery-quarter.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "bed",
+        "path": "/symbols/bed.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "beer-mug-empty",
+        "path": "/symbols/beer-mug-empty.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "bell-concierge",
+        "path": "/symbols/bell-concierge.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "bell-slash",
+        "path": "/symbols/bell-slash.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "bell",
+        "path": "/symbols/bell.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "bicycle",
+        "path": "/symbols/bicycle.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "binoculars",
+        "path": "/symbols/binoculars.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "biohazard",
+        "path": "/symbols/biohazard.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "blender",
+        "path": "/symbols/blender.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "bolt-lightning",
+        "path": "/symbols/bolt-lightning.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "bolt",
+        "path": "/symbols/bolt.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "bomb",
+        "path": "/symbols/bomb.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "bone",
+        "path": "/symbols/bone.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "bong",
+        "path": "/symbols/bong.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "book-atlas",
+        "path": "/symbols/book-atlas.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "book-bible",
+        "path": "/symbols/book-bible.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "book-bookmark",
+        "path": "/symbols/book-bookmark.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "book-medical",
+        "path": "/symbols/book-medical.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "book-open",
+        "path": "/symbols/book-open.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "book-skull",
+        "path": "/symbols/book-skull.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "book-tanakh",
+        "path": "/symbols/book-tanakh.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "book",
+        "path": "/symbols/book.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "bookmark",
+        "path": "/symbols/bookmark.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "border-all",
+        "path": "/symbols/border-all.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "bore-hole",
+        "path": "/symbols/bore-hole.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "bottle-droplet",
+        "path": "/symbols/bottle-droplet.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "bottle-water",
+        "path": "/symbols/bottle-water.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "bowl-food",
+        "path": "/symbols/bowl-food.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "bowl-rice",
+        "path": "/symbols/bowl-rice.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "bowling-ball",
+        "path": "/symbols/bowling-ball.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "box-archive",
+        "path": "/symbols/box-archive.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "box-open",
+        "path": "/symbols/box-open.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "box-tissue",
+        "path": "/symbols/box-tissue.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "box",
+        "path": "/symbols/box.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "boxes-stacked",
+        "path": "/symbols/boxes-stacked.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "brain",
+        "path": "/symbols/brain.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "bread-slice",
+        "path": "/symbols/bread-slice.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "bridge-water",
+        "path": "/symbols/bridge-water.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "bridge",
+        "path": "/symbols/bridge.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "briefcase-medical",
+        "path": "/symbols/briefcase-medical.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "briefcase",
+        "path": "/symbols/briefcase.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "broom",
+        "path": "/symbols/broom.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "brush",
+        "path": "/symbols/brush.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "bucket",
+        "path": "/symbols/bucket.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "bug-slash",
+        "path": "/symbols/bug-slash.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "bug",
+        "path": "/symbols/bug.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "bugs",
+        "path": "/symbols/bugs.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "building-columns",
+        "path": "/symbols/building-columns.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "building-flag",
+        "path": "/symbols/building-flag.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "building-ngo",
+        "path": "/symbols/building-ngo.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "building-shield",
+        "path": "/symbols/building-shield.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "building-un",
+        "path": "/symbols/building-un.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "building-user",
+        "path": "/symbols/building-user.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "building",
+        "path": "/symbols/building.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "bullhorn",
+        "path": "/symbols/bullhorn.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "bullseye",
+        "path": "/symbols/bullseye.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "burger",
+        "path": "/symbols/burger.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "burst",
+        "path": "/symbols/burst.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "bus-simple",
+        "path": "/symbols/bus-simple.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "bus",
+        "path": "/symbols/bus.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "business-time",
+        "path": "/symbols/business-time.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "c",
+        "path": "/symbols/c.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "cable-car",
+        "path": "/symbols/cable-car.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "cake-candles",
+        "path": "/symbols/cake-candles.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "calculator",
+        "path": "/symbols/calculator.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "calendar-check",
+        "path": "/symbols/calendar-check.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "calendar-day",
+        "path": "/symbols/calendar-day.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "calendar-days",
+        "path": "/symbols/calendar-days.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "calendar-week",
+        "path": "/symbols/calendar-week.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "calendar-xmark",
+        "path": "/symbols/calendar-xmark.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "calendar",
+        "path": "/symbols/calendar.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "camera-rotate",
+        "path": "/symbols/camera-rotate.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "camera",
+        "path": "/symbols/camera.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "campground",
+        "path": "/symbols/campground.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "candy-cane",
+        "path": "/symbols/candy-cane.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "cannabis",
+        "path": "/symbols/cannabis.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "capsules",
+        "path": "/symbols/capsules.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "car-battery",
+        "path": "/symbols/car-battery.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "car-burst",
+        "path": "/symbols/car-burst.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "car-on",
+        "path": "/symbols/car-on.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "car-side",
+        "path": "/symbols/car-side.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "car",
+        "path": "/symbols/car.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "caravan",
+        "path": "/symbols/caravan.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "carrot",
+        "path": "/symbols/carrot.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "cart-flatbed-suitcase",
+        "path": "/symbols/cart-flatbed-suitcase.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "cart-shopping",
+        "path": "/symbols/cart-shopping.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "cash-register",
+        "path": "/symbols/cash-register.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "cat",
+        "path": "/symbols/cat.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "certificate",
+        "path": "/symbols/certificate.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "chair",
+        "path": "/symbols/chair.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "chalkboard",
+        "path": "/symbols/chalkboard.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "champagne-glasses",
+        "path": "/symbols/champagne-glasses.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "charging-station",
+        "path": "/symbols/charging-station.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "chart-column",
+        "path": "/symbols/chart-column.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "chart-line",
+        "path": "/symbols/chart-line.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "chart-pie",
+        "path": "/symbols/chart-pie.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "check",
+        "path": "/symbols/check.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "cheese",
+        "path": "/symbols/cheese.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "chess-bishop",
+        "path": "/symbols/chess-bishop.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "chess-board",
+        "path": "/symbols/chess-board.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "chess-king",
+        "path": "/symbols/chess-king.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "chess-knight",
+        "path": "/symbols/chess-knight.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "chess-queen",
+        "path": "/symbols/chess-queen.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "chess",
+        "path": "/symbols/chess.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "child-dress",
+        "path": "/symbols/child-dress.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "child-reaching",
+        "path": "/symbols/child-reaching.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "child",
+        "path": "/symbols/child.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "children",
+        "path": "/symbols/children.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "church",
+        "path": "/symbols/church.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "circle-dot",
+        "path": "/symbols/circle-dot.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "circle-info",
+        "path": "/symbols/circle-info.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "circle-nodes",
+        "path": "/symbols/circle-nodes.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "circle-pause",
+        "path": "/symbols/circle-pause.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "circle-play",
+        "path": "/symbols/circle-play.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "circle-question",
+        "path": "/symbols/circle-question.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "circle-radiation",
+        "path": "/symbols/circle-radiation.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "circle-stop",
+        "path": "/symbols/circle-stop.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "circle-user",
+        "path": "/symbols/circle-user.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "city",
+        "path": "/symbols/city.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "clapperboard",
+        "path": "/symbols/clapperboard.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "clipboard-check",
+        "path": "/symbols/clipboard-check.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "clipboard-list",
+        "path": "/symbols/clipboard-list.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "clipboard-question",
+        "path": "/symbols/clipboard-question.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "clipboard-user",
+        "path": "/symbols/clipboard-user.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "clipboard",
+        "path": "/symbols/clipboard.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "clock-rotate-left",
+        "path": "/symbols/clock-rotate-left.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "clock",
+        "path": "/symbols/clock.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "closed-captioning",
+        "path": "/symbols/closed-captioning.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "cloud-bolt",
+        "path": "/symbols/cloud-bolt.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "cloud-moon-rain",
+        "path": "/symbols/cloud-moon-rain.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "cloud-moon",
+        "path": "/symbols/cloud-moon.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "cloud-rain",
+        "path": "/symbols/cloud-rain.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "cloud-showers-heavy",
+        "path": "/symbols/cloud-showers-heavy.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "cloud-sun-rain",
+        "path": "/symbols/cloud-sun-rain.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "cloud-sun",
+        "path": "/symbols/cloud-sun.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "cloud",
+        "path": "/symbols/cloud.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "clover",
+        "path": "/symbols/clover.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "code-branch",
+        "path": "/symbols/code-branch.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "code-fork",
+        "path": "/symbols/code-fork.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "code-merge",
+        "path": "/symbols/code-merge.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "code-pull-request",
+        "path": "/symbols/code-pull-request.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "code",
+        "path": "/symbols/code.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "coins",
+        "path": "/symbols/coins.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "comment-dollar",
+        "path": "/symbols/comment-dollar.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "comment-dots",
+        "path": "/symbols/comment-dots.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "comment-medical",
+        "path": "/symbols/comment-medical.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "comment-slash",
+        "path": "/symbols/comment-slash.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "comment-sms",
+        "path": "/symbols/comment-sms.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "comment",
+        "path": "/symbols/comment.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "comments-dollar",
+        "path": "/symbols/comments-dollar.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "comments",
+        "path": "/symbols/comments.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "compact-disc",
+        "path": "/symbols/compact-disc.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "compass-drafting",
+        "path": "/symbols/compass-drafting.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "compass",
+        "path": "/symbols/compass.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "compress",
+        "path": "/symbols/compress.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "computer-mouse",
+        "path": "/symbols/computer-mouse.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "computer",
+        "path": "/symbols/computer.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "cookie-bite",
+        "path": "/symbols/cookie-bite.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "cookie",
+        "path": "/symbols/cookie.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "copyright",
+        "path": "/symbols/copyright.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "couch",
+        "path": "/symbols/couch.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "cow",
+        "path": "/symbols/cow.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "credit-card",
+        "path": "/symbols/credit-card.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "crop-simple",
+        "path": "/symbols/crop-simple.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "crop",
+        "path": "/symbols/crop.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "cross",
+        "path": "/symbols/cross.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "crosshairs",
+        "path": "/symbols/crosshairs.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "crow",
+        "path": "/symbols/crow.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "crown",
+        "path": "/symbols/crown.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "crutch",
+        "path": "/symbols/crutch.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "cruzeiro-sign",
+        "path": "/symbols/cruzeiro-sign.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "cube",
+        "path": "/symbols/cube.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "cubes-stacked",
+        "path": "/symbols/cubes-stacked.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "cubes",
+        "path": "/symbols/cubes.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "d",
+        "path": "/symbols/d.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "database",
+        "path": "/symbols/database.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "democrat",
+        "path": "/symbols/democrat.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "desktop",
+        "path": "/symbols/desktop.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "dharmachakra",
+        "path": "/symbols/dharmachakra.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "diagram-next",
+        "path": "/symbols/diagram-next.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "diagram-predecessor",
+        "path": "/symbols/diagram-predecessor.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "diagram-project",
+        "path": "/symbols/diagram-project.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "diagram-successor",
+        "path": "/symbols/diagram-successor.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "diamond-turn-right",
+        "path": "/symbols/diamond-turn-right.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "diamond",
+        "path": "/symbols/diamond.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "dice-d20",
+        "path": "/symbols/dice-d20.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "dice-d6",
+        "path": "/symbols/dice-d6.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "dice-five",
+        "path": "/symbols/dice-five.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "dice-four",
+        "path": "/symbols/dice-four.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "dice-one",
+        "path": "/symbols/dice-one.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "dice-six",
+        "path": "/symbols/dice-six.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "dice-three",
+        "path": "/symbols/dice-three.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "dice-two",
+        "path": "/symbols/dice-two.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "dice",
+        "path": "/symbols/dice.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "disease",
+        "path": "/symbols/disease.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "display",
+        "path": "/symbols/display.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "divide",
+        "path": "/symbols/divide.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "dna",
+        "path": "/symbols/dna.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "dog",
+        "path": "/symbols/dog.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "dollar-sign",
+        "path": "/symbols/dollar-sign.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "dolly",
+        "path": "/symbols/dolly.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "dong-sign",
+        "path": "/symbols/dong-sign.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "door-closed",
+        "path": "/symbols/door-closed.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "door-open",
+        "path": "/symbols/door-open.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "dove",
+        "path": "/symbols/dove.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "download",
+        "path": "/symbols/download.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "dragon",
+        "path": "/symbols/dragon.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "draw-polygon",
+        "path": "/symbols/draw-polygon.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "droplet-slash",
+        "path": "/symbols/droplet-slash.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "droplet",
+        "path": "/symbols/droplet.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "drum-steelpan",
+        "path": "/symbols/drum-steelpan.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "drum",
+        "path": "/symbols/drum.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "drumstick-bite",
+        "path": "/symbols/drumstick-bite.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "dumbbell",
+        "path": "/symbols/dumbbell.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "dumpster-fire",
+        "path": "/symbols/dumpster-fire.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "dumpster",
+        "path": "/symbols/dumpster.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "dungeon",
+        "path": "/symbols/dungeon.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "ear-deaf",
+        "path": "/symbols/ear-deaf.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "ear-listen",
+        "path": "/symbols/ear-listen.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "earth-africa",
+        "path": "/symbols/earth-africa.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "earth-americas",
+        "path": "/symbols/earth-americas.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "earth-asia",
+        "path": "/symbols/earth-asia.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "earth-europe",
+        "path": "/symbols/earth-europe.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "earth-oceania",
+        "path": "/symbols/earth-oceania.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "egg",
+        "path": "/symbols/egg.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "eject",
+        "path": "/symbols/eject.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "elevator",
+        "path": "/symbols/elevator.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "envelope-circle-check",
+        "path": "/symbols/envelope-circle-check.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "envelope-open-text",
+        "path": "/symbols/envelope-open-text.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "envelope-open",
+        "path": "/symbols/envelope-open.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "envelope",
+        "path": "/symbols/envelope.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "envelopes-bulk",
+        "path": "/symbols/envelopes-bulk.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "eraser",
+        "path": "/symbols/eraser.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "ethernet",
+        "path": "/symbols/ethernet.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "euro-sign",
+        "path": "/symbols/euro-sign.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "explosion",
+        "path": "/symbols/explosion.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "eye-dropper",
+        "path": "/symbols/eye-dropper.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "eye-low-vision",
+        "path": "/symbols/eye-low-vision.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "eye-slash",
+        "path": "/symbols/eye-slash.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "eye",
+        "path": "/symbols/eye.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "face-angry",
+        "path": "/symbols/face-angry.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "face-dizzy",
+        "path": "/symbols/face-dizzy.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "face-flushed",
+        "path": "/symbols/face-flushed.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "face-frown-open",
+        "path": "/symbols/face-frown-open.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "face-frown",
+        "path": "/symbols/face-frown.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "face-grimace",
+        "path": "/symbols/face-grimace.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "face-grin-beam-sweat",
+        "path": "/symbols/face-grin-beam-sweat.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "face-grin-beam",
+        "path": "/symbols/face-grin-beam.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "face-grin-hearts",
+        "path": "/symbols/face-grin-hearts.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "face-grin-squint-tears",
+        "path": "/symbols/face-grin-squint-tears.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "face-grin-squint",
+        "path": "/symbols/face-grin-squint.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "face-grin-stars",
+        "path": "/symbols/face-grin-stars.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "face-grin-tears",
+        "path": "/symbols/face-grin-tears.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "face-grin-tongue-squint",
+        "path": "/symbols/face-grin-tongue-squint.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "face-grin-tongue-wink",
+        "path": "/symbols/face-grin-tongue-wink.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "face-grin-tongue",
+        "path": "/symbols/face-grin-tongue.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "face-grin-wide",
+        "path": "/symbols/face-grin-wide.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "face-grin-wink",
+        "path": "/symbols/face-grin-wink.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "face-grin",
+        "path": "/symbols/face-grin.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "face-kiss-beam",
+        "path": "/symbols/face-kiss-beam.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "face-kiss-wink-heart",
+        "path": "/symbols/face-kiss-wink-heart.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "face-kiss",
+        "path": "/symbols/face-kiss.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "face-laugh-beam",
+        "path": "/symbols/face-laugh-beam.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "face-laugh-squint",
+        "path": "/symbols/face-laugh-squint.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "face-laugh-wink",
+        "path": "/symbols/face-laugh-wink.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "face-laugh",
+        "path": "/symbols/face-laugh.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "face-meh-blank",
+        "path": "/symbols/face-meh-blank.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "face-meh",
+        "path": "/symbols/face-meh.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "face-rolling-eyes",
+        "path": "/symbols/face-rolling-eyes.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "face-sad-cry",
+        "path": "/symbols/face-sad-cry.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "face-sad-tear",
+        "path": "/symbols/face-sad-tear.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "face-smile-beam",
+        "path": "/symbols/face-smile-beam.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "face-smile-wink",
+        "path": "/symbols/face-smile-wink.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "face-smile",
+        "path": "/symbols/face-smile.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "face-surprise",
+        "path": "/symbols/face-surprise.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "face-tired",
+        "path": "/symbols/face-tired.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "fan",
+        "path": "/symbols/fan.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "faucet-drip",
+        "path": "/symbols/faucet-drip.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "faucet",
+        "path": "/symbols/faucet.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "feather-pointed",
+        "path": "/symbols/feather-pointed.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "feather",
+        "path": "/symbols/feather.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "ferry",
+        "path": "/symbols/ferry.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "file-code",
+        "path": "/symbols/file-code.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "file-contract",
+        "path": "/symbols/file-contract.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "file-image",
+        "path": "/symbols/file-image.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "file-invoice-dollar",
+        "path": "/symbols/file-invoice-dollar.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "file-zipper",
+        "path": "/symbols/file-zipper.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "file",
+        "path": "/symbols/file.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "fill-drip",
+        "path": "/symbols/fill-drip.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "fill",
+        "path": "/symbols/fill.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "film",
+        "path": "/symbols/film.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "filter",
+        "path": "/symbols/filter.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "fingerprint",
+        "path": "/symbols/fingerprint.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "fire-extinguisher",
+        "path": "/symbols/fire-extinguisher.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "fire-flame-curved",
+        "path": "/symbols/fire-flame-curved.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "fire-flame-simple",
+        "path": "/symbols/fire-flame-simple.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "fire",
+        "path": "/symbols/fire.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "fish-fins",
+        "path": "/symbols/fish-fins.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "flag-checkered",
+        "path": "/symbols/flag-checkered.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "flag-usa",
+        "path": "/symbols/flag-usa.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "flag",
+        "path": "/symbols/flag.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "flask-vial",
+        "path": "/symbols/flask-vial.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "flask",
+        "path": "/symbols/flask.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "floppy-disk",
+        "path": "/symbols/floppy-disk.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "florin-sign",
+        "path": "/symbols/florin-sign.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "folder-open",
+        "path": "/symbols/folder-open.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "folder",
+        "path": "/symbols/folder.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "font-awesome",
+        "path": "/symbols/font-awesome.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "football",
+        "path": "/symbols/football.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "frog",
+        "path": "/symbols/frog.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "futbol",
+        "path": "/symbols/futbol.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "gamepad",
+        "path": "/symbols/gamepad.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "gas-pump",
+        "path": "/symbols/gas-pump.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "gauge-high",
+        "path": "/symbols/gauge-high.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "gauge",
+        "path": "/symbols/gauge.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "gavel",
+        "path": "/symbols/gavel.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "gear",
+        "path": "/symbols/gear.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "gears",
+        "path": "/symbols/gears.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "gem",
+        "path": "/symbols/gem.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "ghost",
+        "path": "/symbols/ghost.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "gift",
+        "path": "/symbols/gift.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "gifts",
+        "path": "/symbols/gifts.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "glass-water-droplet",
+        "path": "/symbols/glass-water-droplet.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "glass-water",
+        "path": "/symbols/glass-water.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "glasses",
+        "path": "/symbols/glasses.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "globe",
+        "path": "/symbols/globe.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "golf-ball-tee",
+        "path": "/symbols/golf-ball-tee.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "gopuram",
+        "path": "/symbols/gopuram.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "graduation-cap",
+        "path": "/symbols/graduation-cap.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "guarani-sign",
+        "path": "/symbols/guarani-sign.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "guitar",
+        "path": "/symbols/guitar.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "gun",
+        "path": "/symbols/gun.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "hammer",
+        "path": "/symbols/hammer.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "hand-back-fist",
+        "path": "/symbols/hand-back-fist.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "hand-fist",
+        "path": "/symbols/hand-fist.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "hand-holding-dollar",
+        "path": "/symbols/hand-holding-dollar.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "hand-holding-droplet",
+        "path": "/symbols/hand-holding-droplet.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "hand-holding-hand",
+        "path": "/symbols/hand-holding-hand.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "hand-holding-heart",
+        "path": "/symbols/hand-holding-heart.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "hand-holding-medical",
+        "path": "/symbols/hand-holding-medical.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "hand-holding",
+        "path": "/symbols/hand-holding.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "hand-lizard",
+        "path": "/symbols/hand-lizard.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "hand-middle-finger",
+        "path": "/symbols/hand-middle-finger.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "hand-peace",
+        "path": "/symbols/hand-peace.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "hand-point-down",
+        "path": "/symbols/hand-point-down.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "hand-point-left",
+        "path": "/symbols/hand-point-left.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "hand-point-right",
+        "path": "/symbols/hand-point-right.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "hand-point-up",
+        "path": "/symbols/hand-point-up.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "hand-pointer",
+        "path": "/symbols/hand-pointer.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "hand-scissors",
+        "path": "/symbols/hand-scissors.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "hand-sparkles",
+        "path": "/symbols/hand-sparkles.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "hand-spock",
+        "path": "/symbols/hand-spock.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "hand",
+        "path": "/symbols/hand.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "handcuffs",
+        "path": "/symbols/handcuffs.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "hands-asl-interpreting",
+        "path": "/symbols/hands-asl-interpreting.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "hands-bound",
+        "path": "/symbols/hands-bound.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "hands-bubbles",
+        "path": "/symbols/hands-bubbles.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "hands-clapping",
+        "path": "/symbols/hands-clapping.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "hands-holding-child",
+        "path": "/symbols/hands-holding-child.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "hands-holding-circle",
+        "path": "/symbols/hands-holding-circle.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "hands-holding",
+        "path": "/symbols/hands-holding.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "hands-praying",
+        "path": "/symbols/hands-praying.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "hands",
+        "path": "/symbols/hands.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "handshake",
+        "path": "/symbols/handshake.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "hanukiah",
+        "path": "/symbols/hanukiah.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "hashtag",
+        "path": "/symbols/hashtag.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "hat-cowboy-side",
+        "path": "/symbols/hat-cowboy-side.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "hat-cowboy",
+        "path": "/symbols/hat-cowboy.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "hat-wizard",
+        "path": "/symbols/hat-wizard.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "head-side-cough",
+        "path": "/symbols/head-side-cough.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "head-side-mask",
+        "path": "/symbols/head-side-mask.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "head-side-virus",
+        "path": "/symbols/head-side-virus.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "headphones",
+        "path": "/symbols/headphones.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "headset",
+        "path": "/symbols/headset.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "heart-crack",
+        "path": "/symbols/heart-crack.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "heart-pulse",
+        "path": "/symbols/heart-pulse.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "heart",
+        "path": "/symbols/heart.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "helicopter-symbol",
+        "path": "/symbols/helicopter-symbol.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "helicopter",
+        "path": "/symbols/helicopter.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "helmet-safety",
+        "path": "/symbols/helmet-safety.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "helmet-un",
+        "path": "/symbols/helmet-un.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "highlighter",
+        "path": "/symbols/highlighter.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "hill-avalanche",
+        "path": "/symbols/hill-avalanche.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "hill-rockslide",
+        "path": "/symbols/hill-rockslide.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "hippo",
+        "path": "/symbols/hippo.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "hockey-puck",
+        "path": "/symbols/hockey-puck.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "holly-berry",
+        "path": "/symbols/holly-berry.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "horse-head",
+        "path": "/symbols/horse-head.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "horse",
+        "path": "/symbols/horse.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "hospital-user",
+        "path": "/symbols/hospital-user.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "hospital",
+        "path": "/symbols/hospital.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "hot-tub-person",
+        "path": "/symbols/hot-tub-person.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "hotdog",
+        "path": "/symbols/hotdog.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "hotel",
+        "path": "/symbols/hotel.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "hourglass-end",
+        "path": "/symbols/hourglass-end.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "hourglass-half",
+        "path": "/symbols/hourglass-half.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "hourglass-start",
+        "path": "/symbols/hourglass-start.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "hourglass",
+        "path": "/symbols/hourglass.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "house-chimney-medical",
+        "path": "/symbols/house-chimney-medical.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "house-chimney-user",
+        "path": "/symbols/house-chimney-user.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "house-chimney-window",
+        "path": "/symbols/house-chimney-window.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "house-chimney",
+        "path": "/symbols/house-chimney.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "house-fire",
+        "path": "/symbols/house-fire.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "house-flag",
+        "path": "/symbols/house-flag.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "house-flood-water",
+        "path": "/symbols/house-flood-water.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "house-lock",
+        "path": "/symbols/house-lock.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "house-medical-flag",
+        "path": "/symbols/house-medical-flag.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "house-medical",
+        "path": "/symbols/house-medical.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "house-tsunami",
+        "path": "/symbols/house-tsunami.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "house-user",
+        "path": "/symbols/house-user.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "hurricane",
+        "path": "/symbols/hurricane.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "ice-cream",
+        "path": "/symbols/ice-cream.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "icicles",
+        "path": "/symbols/icicles.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "id-badge",
+        "path": "/symbols/id-badge.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "id-card",
+        "path": "/symbols/id-card.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "igloo",
+        "path": "/symbols/igloo.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "image-portrait",
+        "path": "/symbols/image-portrait.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "image",
+        "path": "/symbols/image.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "industry",
+        "path": "/symbols/industry.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "infinity",
+        "path": "/symbols/infinity.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "info",
+        "path": "/symbols/info.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "italic",
+        "path": "/symbols/italic.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "j",
+        "path": "/symbols/j.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "jar",
+        "path": "/symbols/jar.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "jedi",
+        "path": "/symbols/jedi.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "jet-fighter-up",
+        "path": "/symbols/jet-fighter-up.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "jet-fighter",
+        "path": "/symbols/jet-fighter.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "joint",
+        "path": "/symbols/joint.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "jug-detergent",
+        "path": "/symbols/jug-detergent.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "key",
+        "path": "/symbols/key.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "keyboard",
+        "path": "/symbols/keyboard.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "kit-medical",
+        "path": "/symbols/kit-medical.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "kiwi-bird",
+        "path": "/symbols/kiwi-bird.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "land-mine-on",
+        "path": "/symbols/land-mine-on.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "landmark-dome",
+        "path": "/symbols/landmark-dome.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "landmark-flag",
+        "path": "/symbols/landmark-flag.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "landmark",
+        "path": "/symbols/landmark.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "language",
+        "path": "/symbols/language.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "laptop",
+        "path": "/symbols/laptop.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "layer-group",
+        "path": "/symbols/layer-group.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "leaf",
+        "path": "/symbols/leaf.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "lemon",
+        "path": "/symbols/lemon.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "life-ring",
+        "path": "/symbols/life-ring.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "lightbulb",
+        "path": "/symbols/lightbulb.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "lines-leaning",
+        "path": "/symbols/lines-leaning.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "link",
+        "path": "/symbols/link.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "lira-sign",
+        "path": "/symbols/lira-sign.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "list-check",
+        "path": "/symbols/list-check.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "location-arrow",
+        "path": "/symbols/location-arrow.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "location-crosshairs",
+        "path": "/symbols/location-crosshairs.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "location-dot",
+        "path": "/symbols/location-dot.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "lock-open",
+        "path": "/symbols/lock-open.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "lock",
+        "path": "/symbols/lock.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "locust",
+        "path": "/symbols/locust.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "lungs-virus",
+        "path": "/symbols/lungs-virus.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "lungs",
+        "path": "/symbols/lungs.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "magnet",
+        "path": "/symbols/magnet.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "magnifying-glass-chart",
+        "path": "/symbols/magnifying-glass-chart.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "magnifying-glass-dollar",
+        "path": "/symbols/magnifying-glass-dollar.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "magnifying-glass-location",
+        "path": "/symbols/magnifying-glass-location.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "magnifying-glass",
+        "path": "/symbols/magnifying-glass.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "map-location-dot",
+        "path": "/symbols/map-location-dot.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "map-pin",
+        "path": "/symbols/map-pin.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "map",
+        "path": "/symbols/map.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "marker",
+        "path": "/symbols/marker.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "mars-and-venus-burst",
+        "path": "/symbols/mars-and-venus-burst.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "mars-and-venus",
+        "path": "/symbols/mars-and-venus.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "mars-stroke",
+        "path": "/symbols/mars-stroke.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "mars",
+        "path": "/symbols/mars.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "martini-glass-citrus",
+        "path": "/symbols/martini-glass-citrus.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "martini-glass-empty",
+        "path": "/symbols/martini-glass-empty.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "martini-glass",
+        "path": "/symbols/martini-glass.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "mask-face",
+        "path": "/symbols/mask-face.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "mask-ventilator",
+        "path": "/symbols/mask-ventilator.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "mask",
+        "path": "/symbols/mask.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "masks-theater",
+        "path": "/symbols/masks-theater.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "mattress-pillow",
+        "path": "/symbols/mattress-pillow.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "maximize",
+        "path": "/symbols/maximize.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "medal",
+        "path": "/symbols/medal.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "memory",
+        "path": "/symbols/memory.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "menorah",
+        "path": "/symbols/menorah.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "mercury",
+        "path": "/symbols/mercury.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "message",
+        "path": "/symbols/message.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "meteor",
+        "path": "/symbols/meteor.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "microchip",
+        "path": "/symbols/microchip.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "microphone-lines-slash",
+        "path": "/symbols/microphone-lines-slash.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "microphone-lines",
+        "path": "/symbols/microphone-lines.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "microscope",
+        "path": "/symbols/microscope.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "minimize",
+        "path": "/symbols/minimize.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "mitten",
+        "path": "/symbols/mitten.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "mobile-retro",
+        "path": "/symbols/mobile-retro.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "mobile-screen-button",
+        "path": "/symbols/mobile-screen-button.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "money-bill-1",
+        "path": "/symbols/money-bill-1.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "money-bill",
+        "path": "/symbols/money-bill.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "money-check-dollar",
+        "path": "/symbols/money-check-dollar.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "monument",
+        "path": "/symbols/monument.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "moon",
+        "path": "/symbols/moon.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "mortar-pestle",
+        "path": "/symbols/mortar-pestle.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "mosque",
+        "path": "/symbols/mosque.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "mosquito",
+        "path": "/symbols/mosquito.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "motorcycle",
+        "path": "/symbols/motorcycle.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "mound",
+        "path": "/symbols/mound.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "mountain-city",
+        "path": "/symbols/mountain-city.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "mountain-sun",
+        "path": "/symbols/mountain-sun.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "mountain",
+        "path": "/symbols/mountain.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "mug-hot",
+        "path": "/symbols/mug-hot.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "mug-saucer",
+        "path": "/symbols/mug-saucer.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "music",
+        "path": "/symbols/music.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "network-wired",
+        "path": "/symbols/network-wired.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "newspaper",
+        "path": "/symbols/newspaper.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "object-group",
+        "path": "/symbols/object-group.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "object-ungroup",
+        "path": "/symbols/object-ungroup.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "oil-can",
+        "path": "/symbols/oil-can.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "oil-well",
+        "path": "/symbols/oil-well.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "otter",
+        "path": "/symbols/otter.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "pager",
+        "path": "/symbols/pager.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "paint-roller",
+        "path": "/symbols/paint-roller.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "paintbrush",
+        "path": "/symbols/paintbrush.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "palette",
+        "path": "/symbols/palette.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "panorama",
+        "path": "/symbols/panorama.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "paper-plane",
+        "path": "/symbols/paper-plane.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "paperclip",
+        "path": "/symbols/paperclip.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "parachute-box",
+        "path": "/symbols/parachute-box.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "passport",
+        "path": "/symbols/passport.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "paste",
+        "path": "/symbols/paste.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "paw",
+        "path": "/symbols/paw.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "peace",
+        "path": "/symbols/peace.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "pen-fancy",
+        "path": "/symbols/pen-fancy.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "pen-nib",
+        "path": "/symbols/pen-nib.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "pen-to-square",
+        "path": "/symbols/pen-to-square.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "pencil",
+        "path": "/symbols/pencil.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "people-carry-box",
+        "path": "/symbols/people-carry-box.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "people-group",
+        "path": "/symbols/people-group.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "people-pulling",
+        "path": "/symbols/people-pulling.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "people-robbery",
+        "path": "/symbols/people-robbery.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "people-roof",
+        "path": "/symbols/people-roof.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "pepper-hot",
+        "path": "/symbols/pepper-hot.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "person-biking",
+        "path": "/symbols/person-biking.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "person-breastfeeding",
+        "path": "/symbols/person-breastfeeding.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "person-cane",
+        "path": "/symbols/person-cane.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "person-digging",
+        "path": "/symbols/person-digging.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "person-dots-from-line",
+        "path": "/symbols/person-dots-from-line.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "person-dress",
+        "path": "/symbols/person-dress.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "person-drowning",
+        "path": "/symbols/person-drowning.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "person-falling",
+        "path": "/symbols/person-falling.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "person-harassing",
+        "path": "/symbols/person-harassing.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "person-hiking",
+        "path": "/symbols/person-hiking.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "person-military-pointing",
+        "path": "/symbols/person-military-pointing.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "person-military-rifle",
+        "path": "/symbols/person-military-rifle.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "person-praying",
+        "path": "/symbols/person-praying.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "person-pregnant",
+        "path": "/symbols/person-pregnant.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "person-rifle",
+        "path": "/symbols/person-rifle.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "person-running",
+        "path": "/symbols/person-running.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "person-shelter",
+        "path": "/symbols/person-shelter.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "person-skating",
+        "path": "/symbols/person-skating.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "person-skiing-nordic",
+        "path": "/symbols/person-skiing-nordic.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "person-skiing",
+        "path": "/symbols/person-skiing.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "person-snowboarding",
+        "path": "/symbols/person-snowboarding.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "person-swimming",
+        "path": "/symbols/person-swimming.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "person-through-window",
+        "path": "/symbols/person-through-window.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "person-walking-luggage",
+        "path": "/symbols/person-walking-luggage.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "person-walking-with-cane",
+        "path": "/symbols/person-walking-with-cane.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "person-walking",
+        "path": "/symbols/person-walking.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "person",
+        "path": "/symbols/person.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "phone-flip",
+        "path": "/symbols/phone-flip.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "phone",
+        "path": "/symbols/phone.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "photo-film",
+        "path": "/symbols/photo-film.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "piggy-bank",
+        "path": "/symbols/piggy-bank.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "pills",
+        "path": "/symbols/pills.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "pizza-slice",
+        "path": "/symbols/pizza-slice.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "place-of-worship",
+        "path": "/symbols/place-of-worship.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "plane-arrival",
+        "path": "/symbols/plane-arrival.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "plane-departure",
+        "path": "/symbols/plane-departure.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "plane",
+        "path": "/symbols/plane.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "plant-wilt",
+        "path": "/symbols/plant-wilt.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "play",
+        "path": "/symbols/play.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "plug",
+        "path": "/symbols/plug.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "plus",
+        "path": "/symbols/plus.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "podcast",
+        "path": "/symbols/podcast.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "poo",
+        "path": "/symbols/poo.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "power-off",
+        "path": "/symbols/power-off.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "prescription-bottle-medical",
+        "path": "/symbols/prescription-bottle-medical.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "print",
+        "path": "/symbols/print.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "pump-medical",
+        "path": "/symbols/pump-medical.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "puzzle-piece",
+        "path": "/symbols/puzzle-piece.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "qrcode",
+        "path": "/symbols/qrcode.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "question",
+        "path": "/symbols/question.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "radiation",
+        "path": "/symbols/radiation.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "radio",
+        "path": "/symbols/radio.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "rainbow",
+        "path": "/symbols/rainbow.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "ranking-star",
+        "path": "/symbols/ranking-star.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "receipt",
+        "path": "/symbols/receipt.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "record-vinyl",
+        "path": "/symbols/record-vinyl.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "rectangle-list",
+        "path": "/symbols/rectangle-list.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "recycle",
+        "path": "/symbols/recycle.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "registered",
+        "path": "/symbols/registered.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "republican",
+        "path": "/symbols/republican.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "restroom",
+        "path": "/symbols/restroom.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "ribbon",
+        "path": "/symbols/ribbon.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "ring",
+        "path": "/symbols/ring.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "road-barrier",
+        "path": "/symbols/road-barrier.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "road-spikes",
+        "path": "/symbols/road-spikes.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "road",
+        "path": "/symbols/road.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "robot",
+        "path": "/symbols/robot.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "rocket",
+        "path": "/symbols/rocket.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "rotate",
+        "path": "/symbols/rotate.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "route",
+        "path": "/symbols/route.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "ruler",
+        "path": "/symbols/ruler.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "sack-dollar",
+        "path": "/symbols/sack-dollar.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "sailboat",
+        "path": "/symbols/sailboat.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "satellite-dish",
+        "path": "/symbols/satellite-dish.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "satellite",
+        "path": "/symbols/satellite.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "scale-balanced",
+        "path": "/symbols/scale-balanced.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "scale-unbalanced-flip",
+        "path": "/symbols/scale-unbalanced-flip.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "school",
+        "path": "/symbols/school.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "scissors",
+        "path": "/symbols/scissors.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "screwdriver-wrench",
+        "path": "/symbols/screwdriver-wrench.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "screwdriver",
+        "path": "/symbols/screwdriver.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "scroll-torah",
+        "path": "/symbols/scroll-torah.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "scroll",
+        "path": "/symbols/scroll.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "sd-card",
+        "path": "/symbols/sd-card.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "seedling",
+        "path": "/symbols/seedling.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "server",
+        "path": "/symbols/server.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "shield-heart",
+        "path": "/symbols/shield-heart.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "shield-virus",
+        "path": "/symbols/shield-virus.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "shield",
+        "path": "/symbols/shield.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "ship",
+        "path": "/symbols/ship.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "shirt",
+        "path": "/symbols/shirt.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "shoe-prints",
+        "path": "/symbols/shoe-prints.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "shop",
+        "path": "/symbols/shop.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "shower",
+        "path": "/symbols/shower.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "shrimp",
+        "path": "/symbols/shrimp.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "shuffle",
+        "path": "/symbols/shuffle.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "shuttle-space",
+        "path": "/symbols/shuttle-space.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "signal",
+        "path": "/symbols/signal.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "signature",
+        "path": "/symbols/signature.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "signs-post",
+        "path": "/symbols/signs-post.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "sim-card",
+        "path": "/symbols/sim-card.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "sink",
+        "path": "/symbols/sink.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "sitemap",
+        "path": "/symbols/sitemap.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "skull-crossbones",
+        "path": "/symbols/skull-crossbones.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "skull",
+        "path": "/symbols/skull.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "sleigh",
+        "path": "/symbols/sleigh.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "smog",
+        "path": "/symbols/smog.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "smoking",
+        "path": "/symbols/smoking.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "snowflake",
+        "path": "/symbols/snowflake.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "snowman",
+        "path": "/symbols/snowman.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "snowplow",
+        "path": "/symbols/snowplow.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "soap",
+        "path": "/symbols/soap.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "socks",
+        "path": "/symbols/socks.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "solar-panel",
+        "path": "/symbols/solar-panel.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "spa",
+        "path": "/symbols/spa.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "spaghetti-monster-flying",
+        "path": "/symbols/spaghetti-monster-flying.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "spider",
+        "path": "/symbols/spider.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "splotch",
+        "path": "/symbols/splotch.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "spoon",
+        "path": "/symbols/spoon.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "spray-can-sparkles",
+        "path": "/symbols/spray-can-sparkles.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "spray-can",
+        "path": "/symbols/spray-can.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "square-parking",
+        "path": "/symbols/square-parking.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "square-person-confined",
+        "path": "/symbols/square-person-confined.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "square-phone-flip",
+        "path": "/symbols/square-phone-flip.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "stamp",
+        "path": "/symbols/stamp.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "star-of-david",
+        "path": "/symbols/star-of-david.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "star-of-life",
+        "path": "/symbols/star-of-life.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "star",
+        "path": "/symbols/star.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "stethoscope",
+        "path": "/symbols/stethoscope.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "stopwatch",
+        "path": "/symbols/stopwatch.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "store",
+        "path": "/symbols/store.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "street-view",
+        "path": "/symbols/street-view.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "suitcase-medical",
+        "path": "/symbols/suitcase-medical.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "suitcase-rolling",
+        "path": "/symbols/suitcase-rolling.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "suitcase",
+        "path": "/symbols/suitcase.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "sun",
+        "path": "/symbols/sun.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "synagogue",
+        "path": "/symbols/synagogue.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "syringe",
+        "path": "/symbols/syringe.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "table-tennis-paddle-ball",
+        "path": "/symbols/table-tennis-paddle-ball.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "table",
+        "path": "/symbols/table.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "tablet-screen-button",
+        "path": "/symbols/tablet-screen-button.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "tag",
+        "path": "/symbols/tag.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "tape",
+        "path": "/symbols/tape.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "taxi",
+        "path": "/symbols/taxi.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "temperature-full",
+        "path": "/symbols/temperature-full.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "tent",
+        "path": "/symbols/tent.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "terminal",
+        "path": "/symbols/terminal.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "thumbs-down",
+        "path": "/symbols/thumbs-down.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "thumbs-up",
+        "path": "/symbols/thumbs-up.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "thumbtack",
+        "path": "/symbols/thumbtack.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "ticket",
+        "path": "/symbols/ticket.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "toilet-paper",
+        "path": "/symbols/toilet-paper.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "toilet",
+        "path": "/symbols/toilet.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "toolbox",
+        "path": "/symbols/toolbox.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "tooth",
+        "path": "/symbols/tooth.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "torii-gate",
+        "path": "/symbols/torii-gate.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "tornado",
+        "path": "/symbols/tornado.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "tower-cell",
+        "path": "/symbols/tower-cell.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "tower-observation",
+        "path": "/symbols/tower-observation.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "tractor",
+        "path": "/symbols/tractor.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "traffic-light",
+        "path": "/symbols/traffic-light.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "trailer",
+        "path": "/symbols/trailer.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "train-subway",
+        "path": "/symbols/train-subway.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "train-tram",
+        "path": "/symbols/train-tram.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "train",
+        "path": "/symbols/train.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "trash-can",
+        "path": "/symbols/trash-can.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "trash",
+        "path": "/symbols/trash.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "tree-city",
+        "path": "/symbols/tree-city.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "tree",
+        "path": "/symbols/tree.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "trophy",
+        "path": "/symbols/trophy.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "trowel",
+        "path": "/symbols/trowel.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "truck-medical",
+        "path": "/symbols/truck-medical.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "truck-monster",
+        "path": "/symbols/truck-monster.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "truck-moving",
+        "path": "/symbols/truck-moving.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "truck-pickup",
+        "path": "/symbols/truck-pickup.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "truck",
+        "path": "/symbols/truck.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "tv",
+        "path": "/symbols/tv.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "umbrella-beach",
+        "path": "/symbols/umbrella-beach.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "umbrella",
+        "path": "/symbols/umbrella.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "universal-access",
+        "path": "/symbols/universal-access.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "unlock-keyhole",
+        "path": "/symbols/unlock-keyhole.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "unlock",
+        "path": "/symbols/unlock.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "user-astronaut",
+        "path": "/symbols/user-astronaut.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "user-doctor",
+        "path": "/symbols/user-doctor.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "user-graduate",
+        "path": "/symbols/user-graduate.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "user-injured",
+        "path": "/symbols/user-injured.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "user-ninja",
+        "path": "/symbols/user-ninja.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "user-nurse",
+        "path": "/symbols/user-nurse.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "user-secret",
+        "path": "/symbols/user-secret.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "user-tie",
+        "path": "/symbols/user-tie.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "user",
+        "path": "/symbols/user.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "utensils",
+        "path": "/symbols/utensils.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "van-shuttle",
+        "path": "/symbols/van-shuttle.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "vault",
+        "path": "/symbols/vault.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "vest-patches",
+        "path": "/symbols/vest-patches.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "vial",
+        "path": "/symbols/vial.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "video",
+        "path": "/symbols/video.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "vihara",
+        "path": "/symbols/vihara.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "virus-covid",
+        "path": "/symbols/virus-covid.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "virus",
+        "path": "/symbols/virus.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "viruses",
+        "path": "/symbols/viruses.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "volcano",
+        "path": "/symbols/volcano.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "volleyball",
+        "path": "/symbols/volleyball.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "volume-high",
+        "path": "/symbols/volume-high.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "volume-xmark",
+        "path": "/symbols/volume-xmark.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "vr-cardboard",
+        "path": "/symbols/vr-cardboard.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "walkie-talkie",
+        "path": "/symbols/walkie-talkie.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "wallet",
+        "path": "/symbols/wallet.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "wand-magic-sparkles",
+        "path": "/symbols/wand-magic-sparkles.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "warehouse",
+        "path": "/symbols/warehouse.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "water",
+        "path": "/symbols/water.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "weight-hanging",
+        "path": "/symbols/weight-hanging.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "weight-scale",
+        "path": "/symbols/weight-scale.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "wheat-awn",
+        "path": "/symbols/wheat-awn.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "wheelchair-move",
+        "path": "/symbols/wheelchair-move.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "wheelchair",
+        "path": "/symbols/wheelchair.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "whiskey-glass",
+        "path": "/symbols/whiskey-glass.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "wifi",
+        "path": "/symbols/wifi.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "wind",
+        "path": "/symbols/wind.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "wine-bottle",
+        "path": "/symbols/wine-bottle.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "wine-glass-empty",
+        "path": "/symbols/wine-glass-empty.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "wine-glass",
+        "path": "/symbols/wine-glass.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "worm",
+        "path": "/symbols/worm.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "wrench",
+        "path": "/symbols/wrench.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "x-ray",
+        "path": "/symbols/x-ray.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "yin-yang",
+        "path": "/symbols/yin-yang.svg",
+        "category": "Standard"
+    }
+]

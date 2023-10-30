@@ -22,6 +22,9 @@
         strong Iteration Count: 
         | Determine the number of times a player will receive a new symbol during their turn.
       li 
+        strong Choose Categories:
+        | Sometimes you don't want all from everything so you can choose which specific categories you want in your game. If non choosen, all are selected automatically.
+      li 
         strong Hit Start: 
         | Once you've set your preferences, hit the "Start Game" button to venture into the storytelling realm!
   .section
@@ -33,9 +36,6 @@
       li 
         strong Spin Your Tale: 
         | Use the symbol as inspiration to narrate a part of the story. Your narrative could be funny, suspenseful, whimsical, or dramatic – the sky's the limit! There are no wrong stories or imaginations. Be creative.
-      li 
-        strong Log Your Symbol: 
-        | Your symbol will be logged next to your name for everyone to see.
       li 
         strong Pass The Baton: 
         | Once you've completed your iterations, pass the storytelling baton to the next player.
