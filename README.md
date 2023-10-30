@@ -2,6 +2,8 @@
 
 Tale-Spinner is an interactive storytelling game built with Nuxt.js, where players take turns to craft a narrative based on a randomly selected symbol. The game supports both local and online play, allowing friends to come together and weave imaginative tales.
 
+![](./screenshot.png)
+
 ## Features
 
 - **Player Setup**: At the start of the game, players can set the number of participants, turns, and iterations.
