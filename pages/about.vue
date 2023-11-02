@@ -27,4 +27,16 @@ p {
     margin-bottom: 1rem;
     line-height: 1.5;
 }
+
+@media (max-width: 768px) {
+    .aboutpage {
+        margin: 1rem;
+    }
+    h1{
+        font-size: 1.5rem;
+    }
+    p{
+        font-size: 1rem;
+    }
+}
 </style>

@@ -22,7 +22,7 @@
         strong Iteration Count: 
         | Determine the number of times a player will receive a new symbol during their turn.
       li 
-        strong Choose Categories:
+        strong Choose Categories: 
         | Sometimes you don't want all from everything so you can choose which specific categories you want in your game. If non choosen, all are selected automatically.
       li 
         strong Hit Start: 
@@ -82,6 +82,7 @@
 
 .section {
   margin-bottom: 2rem;
+  max-width: 100%;
 }
 
 h1 {
@@ -112,9 +113,11 @@ li {
   line-height: 1.5;
 }
 
-.biglogo{
-  display:block;
-  max-width: 500px;
+.biglogo {
+  display: block;
+  max-width: 450px;
+  max-width: 90%;
+  min-width: 10px;
   margin: auto;
 }
 
@@ -154,7 +157,8 @@ button:hover {
     font-size: 1.5rem;
   }
 
-  p {
+  p,
+  li {
     font-size: 1rem;
   }
 }

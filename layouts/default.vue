@@ -66,7 +66,8 @@ footer {
 
     footer {
         display: block;
-        width: 80%;
+        max-width: 80%;
+        min-width: 50%;
         align-items: center;
         text-align: center;
         margin: 5rem 1rem 1rem 1rem;
