@@ -6,6 +6,8 @@
         .info-column Current Turn: {{ currentTurn }} / {{ totalTurns }}
         .info-column Current Iteration: {{ currentIteration }} / {{ totalIterations }}
     .symbol-frame
+        div.spinning-symbols(v-if="isSpinning")
+            img(v-for="symbol in spinningSymbols" :key="symbol.name" :src="symbol.path" :alt="symbol.name")
         img(v-if="currentSymbol" :src="currentSymbol.path" :alt="currentSymbol.name")
         p(v-if="!currentSymbol") ?
     .controls
@@ -47,6 +49,63 @@ export default {
                 isEditing: false,
             })),
             symbols,
+            isSpinning: false,
+            spinningSymbols: [
+    {
+        "name": "mask-face",
+        "path": "/symbols/mask-face.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "mask-ventilator",
+        "path": "/symbols/mask-ventilator.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "mask",
+        "path": "/symbols/mask.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "masks-theater",
+        "path": "/symbols/masks-theater.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "mattress-pillow",
+        "path": "/symbols/mattress-pillow.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "maximize",
+        "path": "/symbols/maximize.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "medal",
+        "path": "/symbols/medal.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "memory",
+        "path": "/symbols/memory.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "menorah",
+        "path": "/symbols/menorah.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "mercury",
+        "path": "/symbols/mercury.svg",
+        "category": "Standard"
+    },
+    {
+        "name": "message",
+        "path": "/symbols/message.svg",
+        "category": "Standard"
+    },],
         }
     },
     computed: {
@@ -79,6 +138,7 @@ export default {
     },
     methods: {
         randomizeSymbol() {
+            this.isSpinning = true;
             if (this.filteredSymbols.length === 0) {
                 alert('No categories selected. Please go back and select categories.');
                 return;
@@ -86,11 +146,14 @@ export default {
             if (this.isGameFinished) {
                 return
             }
-            const symbolIndex = Math.floor(Math.random() * this.filteredSymbols.length);
-            this.currentSymbol = this.filteredSymbols[symbolIndex];
-            this.players[this.currentPlayer - 1].symbols.push(this.currentSymbol);
-            this.currentIteration++;
-            this.isIterationEnd = this.currentIteration === this.totalIterations;
+            setTimeout(() => {
+                const symbolIndex = Math.floor(Math.random() * this.filteredSymbols.length);
+                this.currentSymbol = this.filteredSymbols[symbolIndex];
+                this.players[this.currentPlayer - 1].symbols.push(this.currentSymbol);
+                this.currentIteration++;
+                this.isIterationEnd = this.currentIteration === this.totalIterations;
+                this.isSpinning = false;
+            }, 2000)
         },
         nextPlayer() {
             if (this.isGameFinished) {
@@ -167,6 +230,22 @@ img.edit {
     max-height: 1rem;
 }
 
+@keyframes spin {
+    0% {
+        transform: translateY(0);
+    }
+
+    100% {
+        transform: translateY(-100%);
+    }
+}
+
+.spinning-symbols {
+    animation: spin 2s cubic-bezier(0.17, 0.67, 0.83, 0.67) forwards;
+    display: flex;
+    flex-direction: column;
+}
+
 input.edit {
     font-size: 1.5rem;
     line-height: 2rem;
@@ -174,7 +253,7 @@ input.edit {
 }
 
 .symbol-frame {
-    display:block;
+    display: block;
     justify-content: center;
     align-items: center;
     text-align: center;
@@ -191,6 +270,7 @@ input.edit {
     max-height: 100%;
     max-height: 10rem;
     align-items: center;
+  overflow: hidden;
 }
 
 .symbol-frame img {
